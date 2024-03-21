@@ -16,7 +16,7 @@ A major solution that Tempus offers is its strategic partnerships with global he
 * Assays: A genetic profiling service, using data from a gene DNA sequencing panel, RNA sequencing panel, ctDNA sequencing panel, gene panel for hereditary cancers, and a whole exome gene DNA sequencing panel. <br />
 * Algos: A platform using algorithmic testing options to gain insights across multiple cancer types. 
 
-Tempus also recently acquired the company Arterys, an AI company that specializes in medical imaging AI platforms. Arterys “built out a handful of tools that use deep learning and other forms of AI to analyze a range of imaging data, including lung CT scans, chest X-rays and both brain and heart MRIs.” _(Landi, 2023)._ This acquisition enables Tempus to provide a brand new platform to their providers and scientists to help with patient care optimization.
+Tempus also recently acquired the company Arterys, an AI company that specializes in medical imaging AI platforms. Arterys “built out a handful of tools that use deep learning and other forms of AI to analyze a range of imaging data, including lung CT scans, chest X-rays and both brain and heart MRIs.” (Landi, 2023). This acquisition enables Tempus to provide a brand new platform to their providers and scientists to help with patient care optimization.
 
 ## Landscape 
 Tempus is in the medical field with the hopes of using data and AI to increase knowledge and better determine diagnoses and treatment for patients across the spectrum of medical needs. 
@@ -29,18 +29,18 @@ Tempus is in the medical field with the hopes of using data and AI to increase k
 * Caption Health: A company that uses AI for early disease identification
 
 ### Some innovations in AI healthcare over the last decade include: 
-Misdiagnosis of illness: “In 2015, misdiagnosing illness and medical error accounted for 10% of all US deaths. AI has been proven to predict and diagnose disease at a faster rate than most medical professionals.” _(Gordon, 2021)._ “In the setting of a challenge competition, some deep learning algorithms achieved better diagnostic performance than a panel of 11 pathologists participating in a simulation exercise designed to mimic routine pathology workflow; algorith performance was comparable with an expert pathologist interpreting whole-slide images without time constraints.” _(Bejnordi, Veta, van Diest, 2017)._
+Misdiagnosis of illness: “In 2015, misdiagnosing illness and medical error accounted for 10% of all US deaths. AI has been proven to predict and diagnose disease at a faster rate than most medical professionals.” (Gordon, 2021). “In the setting of a challenge competition, some deep learning algorithms achieved better diagnostic performance than a panel of 11 pathologists participating in a simulation exercise designed to mimic routine pathology workflow; algorith performance was comparable with an expert pathologist interpreting whole-slide images without time constraints.” (Bejnordi, Veta, van Diest, 2017).
 
-In 2017, Beth Israel Deaconess Medical Center used AI to “diagnose deadly blood diseases to predict risks earlier than other methods. Doctors are using AI-enhanced microscopes to scan for harmful bacterias (like E. coli and staphylococcus) in blood samples at a faster rate than is possible using manual scanning. The AI machines learn how to identify and predict harmful bacteria in blood with 95% accuracy.” _(Gordon, 2021)._
+In 2017, Beth Israel Deaconess Medical Center used AI to “diagnose deadly blood diseases to predict risks earlier than other methods. Doctors are using AI-enhanced microscopes to scan for harmful bacterias (like E. coli and staphylococcus) in blood samples at a faster rate than is possible using manual scanning. The AI machines learn how to identify and predict harmful bacteria in blood with 95% accuracy.” (Gordon, 2021).
 
 ## Results 
 Tempus has been involved with numerous success stories throughout its short existence. By partnering with large scale healthcare organizations, they are able to share relevant data across these institutions to advance cancer testing and health trials.
 
-In March 2024:<br />
-> “Tempus announced a generous data contribution of de-identified tumor profiles with limited   associated clinical information from more than 3,000 cancer diagnoses to the National Cancer Institute (NCI)... …This is a first of its kind contribution to NCI’s planned Data Enclave and will support the NCI’s mission of advocating cancer research by learning from each individual with cancer.” _(Tempus, 2024)._
+Tempus (2024), Noted in the Tempus Press Releases that in March 2024:<br />
+> “Tempus announced a generous data contribution of de-identified tumor profiles with limited   associated clinical information from more than 3,000 cancer diagnoses to the National Cancer Institute (NCI)... …This is a first of its kind contribution to NCI’s planned Data Enclave and will support the NCI’s mission of advocating cancer research by learning from each individual with cancer.”
 
-In January 2024:<br /> 
-> “Tempus announced the addition of a novel MRD assay, xM MRD (formerly xM), to its comprehensive testing solutions. The tumor-naive plasma based test is available for research use only to detect circulating tumor DNA (ctDNA) in the blood of patients with early CRC after surgery.” _(Tempus, 2024)._
+Tempus (2024), Noted in the Tempus Press Releases that in January 2024:<br /> 
+> “Tempus announced the addition of a novel MRD assay, xM MRD (formerly xM), to its comprehensive testing solutions. The tumor-naive plasma based test is available for research use only to detect circulating tumor DNA (ctDNA) in the blood of patients with early CRC after surgery.”
 
 These advancements in data and medical technology will be used at the forefront for patient diagnoses and treatment, and are only a few successful implementations that Tempus has offered since the beginning of 2024.
 
