@@ -45,8 +45,8 @@ Tempus (2024), Noted in the Tempus Press Releases that in January 2024:<br />
 These advancements in data and medical technology will be used at the forefront for patient diagnoses and treatment, and are only a few successful implementations that Tempus has offered since the beginning of 2024.
 
 ## Recommendations 
-A lot of similar companies - either direct competitors, or specialized companies, use their data and platforms to utilize and monitor medical devices. This would be an untapped market within the large realm of medicine that Tempus is hoping to change. By already adding cardiology to the list of issues they want to conquer, as well as their ever growing interest in other medical fields, medical devices should be the next step in terms of data they should look to empower. 
-By creating a platform that chooses the right medical devices, as well as monitors results, they can offer their AI-driven platforms to benefit another field in medicine. This would also give them a considerable amount of new customers, as these are common necessities throughout every community.
+A lot of similar companies - either direct competitors, or specialized companies, use their data and platforms to utilize and monitor medical devices. This would be a market that Tempus has not touched yet within the large realm of medicine that Tempus is hoping to change. By already adding cardiology to the list of issues they want to conquer, as well as their ever growing interest in other medical fields, medical devices should be the next step in terms of data they should look to empower.<br /> 
+By creating a platform that chooses the right medical devices, as well as monitors results, they can offer their AI-driven platforms to benefit another field in medicine. With the strategic partnerships and platforms they already have in place, they could potentially take over this field. This would also give them a considerable amount of new customers, as these are common necessities throughout every community. 
 
 ## References
 Adams, Allen (2023, November 3).<br />
