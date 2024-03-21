@@ -8,34 +8,38 @@ Tempus’s platform was originally built for oncology, however, they have since 
 
 A major solution that Tempus offers is its strategic partnership with global healthcare powerhouses such as Pfizer and AstraZeneca, as well as other healthcare institutions and pharmaceutical companies. By partnering with these massive institutions, they have access to an incredible amount of data to help provide their research and treatment solutions in the medical field. 
 
-Their AI technologies include:
-The Hub: A test and results platform that can be used on desktop or mobile, allowing providers to order, receive, and manage all of their patients' needs with ease. This platform uses AI smart reporting via clinical and molecular data from MSK OncoKB and NCCN Guidelines® to help determine treatment options for patients. 
-One: A clinical assistant that supplies patient insights to providers. By using AI, providers are now enabled to filter between alterations, genes, or diagnoses to gain additional insights and assist with patient treatment decisions. This application also keeps up with the latest clinical trials, filtered by patient specific enrollment criteria to support these treatment decisions.
-Now: A suite of applications within electronic health records that uses advanced analytics and clinical research/trials with discrete genomic data and previous test results. 
-Lens: A platform used to empower researchers and scientists with Tempus data. Using their AI assistant and R and Jupyter-enabled Lens Workspaces, researchers can find clinical groups of interest to gain critical insights with Tempus data.
-Assays: A genetic profiling service, using data from a gene DNA sequencing panel, RNA sequencing panel, ctDNA sequencing panel, gene panel for hereditary cancers, and a whole exome gene DNA sequencing panel. 
-Algos: A platform using algorithmic testing options to gain insights across multiple cancer types. 
+### Their AI technologies include:<br />
+* The Hub: A test and results platform that can be used on desktop or mobile, allowing providers to order, receive, and manage all of their patients' needs with ease. This platform uses AI smart reporting via clinical and molecular data from MSK OncoKB and NCCN Guidelines® to help determine treatment options for patients. <br />
+* One: A clinical assistant that supplies patient insights to providers. By using AI, providers are now enabled to filter between alterations, genes, or diagnoses to gain additional insights and assist with patient treatment decisions. This application also keeps up with the latest clinical trials, filtered by patient specific enrollment criteria to support these treatment decisions.<br />
+* Now: A suite of applications within electronic health records that uses advanced analytics and clinical research/trials with discrete genomic data and previous test results. 
+* Lens: A platform used to empower researchers and scientists with Tempus data. Using their AI assistant and R and Jupyter-enabled Lens Workspaces, researchers can find clinical groups of interest to gain critical insights with Tempus data.<br />
+* Assays: A genetic profiling service, using data from a gene DNA sequencing panel, RNA sequencing panel, ctDNA sequencing panel, gene panel for hereditary cancers, and a whole exome gene DNA sequencing panel. <br />
+* Algos: A platform using algorithmic testing options to gain insights across multiple cancer types. 
 
 Tempus has also recently acquired the company Arterys, an AI company that specializes in medical imaging AI platforms. Arterys “built out a handful of tools that use deep learning and other forms of AI to analyze a range of imaging data, including lung CT scans, chest X-rays and both brain and heart MRIs.” _(Landi, 2023)._ This acquisition enables Tempus to provide a brand new platform to their providers and scientists to help with patient care optimization.
 
 ## Landscape 
 Tempus is in the medical field with the hopes of using data and AI to increase knowledge and better determine diagnoses and treatment for patients across the spectrum of medical needs. 
 
-Other major companies in this field include: 
-DeepMind: Uses algorithms and deep learning models for medical imaging analysis, predictive diagnostics, and patient care optimization 
-Markovate: A software company that uses AI-driven systems for predictive diagnostics and patient care, among other solutions in vastly different fields
-Ezra: An AI healthcare company that specializes in early cancer detection
-Biofourmis: A company that utilizes wearable devices and AI for patient monitoring
-Caption Health: A company that uses AI for early disease identification
+### Other major companies in this field include:<br />
+* DeepMind: Uses algorithms and deep learning models for medical imaging analysis, predictive diagnostics, and patient care optimization<br />
+* Markovate: A software company that uses AI-driven systems for predictive diagnostics and patient care, among other solutions in vastly different fields<br />
+* Ezra: An AI healthcare company that specializes in early cancer detection<br />
+* Biofourmis: A company that utilizes wearable devices and AI for patient monitoring
+* Caption Health: A company that uses AI for early disease identification
 
-Some innovations in AI healthcare over the last decade include: 
+### Some innovations in AI healthcare over the last decade include: 
 Misdiagnosis of illness: “In 2015, misdiagnosing illness and medical error accounted for 10% of all US deaths. AI has been proven to predict and diagnose disease at a faster rate than most medical professionals.” _(Gordon, 2021)._ “In the setting of a challenge competition, some deep learning algorithms achieved better diagnostic performance than a panel of 11 pathologists participating in a simulation exercise designed to mimic routine pathology workflow; algorith performance was comparable with an expert pathologist interpreting whole-slide images without time constraints.” _(Bejnordi, Veta, van Diest, 2017)._
+
 In 2017, Beth Israel Deaconess Medical Center used AI to “diagnose deadly blood diseases to predict risks earlier than other methods. Doctors are using AI-enhanced microscopes to scan for harmful bacterias (like E. coli and staphylococcus) in blood samples at a faster rate than is possible using manual scanning. The AI machines learn how to identify and predict harmful bacteria in blood with 95% accuracy.” _(Gordon, 2021)._
 
 ## Results 
-Tempus has been involved with numerous success stories throughout its short existence. By partnering with large scale healthcare organizations, they are able to share relevant data across these institutions to advance cancer testing and health trials. 
+Tempus has been involved with numerous success stories throughout its short existence. By partnering with large scale healthcare organizations, they are able to share relevant data across these institutions to advance cancer testing and health trials.
+
 In March 2024 Tempus “...announced a generous data contribution of de-identified tumor profiles with limited associated clinical information from more than 3,000 cancer diagnoses to the National Cancer Institute (NCI)... …This is a first of its kind contribution to NCI’s planned Data Enclave and will support the NCI’s mission of advocating cancer research by learning from each individual with cancer.” _(Tempus, 2024)._
+
 In January 2024 Tempus “...announced the addition of a novel MRD assay, xM MRD (formerly xM), to its comprehensive testing solutions. The tumor-naive plasma based test is available for research use only to detect circulating tumor DNA (ctDNA) in the blood of patients with early CRC after surgery.” _(Tempus, 2024)._
+
 These advancements in data and medical technology will be used at the forefront for patient diagnoses and treatment, and are only a few successful implementations that Tempus has offered since the beginning of 2024.
 
 ## Recommendations 
@@ -45,19 +49,19 @@ By creating a platform that chooses the right medical devices, as well as monito
 ## References
 Adams, Allen (2023, November 3).<br />
 Top 10 Healthcare AI Development Companies 2024<br />
-https://www.linkedin.com/pulse/top-10-healthcare-ai-development-companies-2023-allen-adams-xnwuf/
+[LinkedIn](https://www.linkedin.com/pulse/top-10-healthcare-ai-development-companies-2023-allen-adams-xnwuf/)
 
 Bejnordi, MS, Babak Ehteshami; Veta, PhD, Mitko; van Diest, MD, PhD, Paul Johannes (2017)<br />
 Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer<br />
-https://jamanetwork.com/journals/jama/fullarticle/2665774
+[JAMA Network](https://jamanetwork.com/journals/jama/fullarticle/2665774)
 
 Gordon, Cindy (2021, September 30).<br />
 AI Innovations in Healthcare<br />
-https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/
+[Forbes](https://www.forbes.com/sites/cindygordon/2021/09/30/ai-innovations-in-healthcare/)
 
 Landi, Heather (2023, March 2).<br />
 Precision medicine company Tempus inks 3rd major pharma deal, securing nearly $1B revenue boost<br />
-https://www.fiercehealthcare.com/health-tech/precision-medicine-company-tempus-inks-3rd-major-pharma-deal-securing-nearly-1b-revenue
+[Fierce Healthcare](https://www.fiercehealthcare.com/health-tech/precision-medicine-company-tempus-inks-3rd-major-pharma-deal-securing-nearly-1b-revenue)
 
 Tempus (2024).<br />
-https://www.tempus.com/
+[Tempus](https://www.tempus.com/)
