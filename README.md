@@ -1,12 +1,12 @@
 # Tempus: A Pioneer in AI-Enabled Precision Medicine
 
 ## Overview and Origin
-Tempus was founded by Groupon co-founder and CEO Eric Lefkofsky in August of 2015 after his wife was diagnosed with Breast Cancer. This personal experience led him to explore the use of AI technology to help progress oncological knowledge and develop a platform for patient-specific diagnostics and treatments. Over the course of eight years, Tempus has received around $1.3 billion in funding, mostly through mutually beneficial partnerships with Pfizer, AstraZeneca, and the U.K. biopharma company GSK.
+Tempus was founded by Groupon co-founder and CEO Eric Lefkofsky in August of 2015 after his wife was diagnosed with Breast Cancer. This personal experience led him to explore the use of AI technology to help progress oncological knowledge and develop platforms for patient-specific diagnostics and treatments. Over the course of eight years, Tempus has received around $1.3 billion in funding, mostly through mutually beneficial partnerships with Pfizer, AstraZeneca, and the U.K. biopharma company GSK.
 
 ## Business Activities
 Tempus’s platform was originally built for oncology, however, they have since expanded their platform uses to neuropsychiatry, cardiology, infectious disease, and radiology. Their customers are providers looking for patient-specific treatment options, as well as researchers and scientists looking to gain critical insights across different types of medicine. With the help of AI, clinical data, and Tempus platforms, these users can help find common diagnoses, gene profiles, and treatments to better their understanding and patient care.
 
-A major solution that Tempus offers is its strategic partnership with global healthcare powerhouses such as Pfizer and AstraZeneca, as well as other healthcare institutions and pharmaceutical companies. By partnering with these massive institutions, they have access to an incredible amount of data to help provide their research and treatment solutions in the medical field. 
+A major solution that Tempus offers is its strategic partnerships with global healthcare powerhouses such as Pfizer and AstraZeneca, as well as other healthcare institutions and pharmaceutical companies. By partnering with these massive institutions, they have access to an incredible amount of data to help provide their research and treatment solutions in the medical field. 
 
 ### Their AI technologies include:<br />
 * The Hub: A test and results platform that can be used on desktop or mobile, allowing providers to order, receive, and manage all of their patients' needs with ease. This platform uses AI smart reporting via clinical and molecular data from MSK OncoKB and NCCN Guidelines® to help determine treatment options for patients. <br />
@@ -16,7 +16,7 @@ A major solution that Tempus offers is its strategic partnership with global hea
 * Assays: A genetic profiling service, using data from a gene DNA sequencing panel, RNA sequencing panel, ctDNA sequencing panel, gene panel for hereditary cancers, and a whole exome gene DNA sequencing panel. <br />
 * Algos: A platform using algorithmic testing options to gain insights across multiple cancer types. 
 
-Tempus has also recently acquired the company Arterys, an AI company that specializes in medical imaging AI platforms. Arterys “built out a handful of tools that use deep learning and other forms of AI to analyze a range of imaging data, including lung CT scans, chest X-rays and both brain and heart MRIs.” _(Landi, 2023)._ This acquisition enables Tempus to provide a brand new platform to their providers and scientists to help with patient care optimization.
+Tempus also recently acquired the company Arterys, an AI company that specializes in medical imaging AI platforms. Arterys “built out a handful of tools that use deep learning and other forms of AI to analyze a range of imaging data, including lung CT scans, chest X-rays and both brain and heart MRIs.” _(Landi, 2023)._ This acquisition enables Tempus to provide a brand new platform to their providers and scientists to help with patient care optimization.
 
 ## Landscape 
 Tempus is in the medical field with the hopes of using data and AI to increase knowledge and better determine diagnoses and treatment for patients across the spectrum of medical needs. 
@@ -36,9 +36,11 @@ In 2017, Beth Israel Deaconess Medical Center used AI to “diagnose deadly bloo
 ## Results 
 Tempus has been involved with numerous success stories throughout its short existence. By partnering with large scale healthcare organizations, they are able to share relevant data across these institutions to advance cancer testing and health trials.
 
-In March 2024 Tempus “...announced a generous data contribution of de-identified tumor profiles with limited associated clinical information from more than 3,000 cancer diagnoses to the National Cancer Institute (NCI)... …This is a first of its kind contribution to NCI’s planned Data Enclave and will support the NCI’s mission of advocating cancer research by learning from each individual with cancer.” _(Tempus, 2024)._
+In March 2024:<br />
+> “Tempus announced a generous data contribution of de-identified tumor profiles with limited   associated clinical information from more than 3,000 cancer diagnoses to the National Cancer Institute (NCI)... …This is a first of its kind contribution to NCI’s planned Data Enclave and will support the NCI’s mission of advocating cancer research by learning from each individual with cancer.” _(Tempus, 2024)._
 
-In January 2024 Tempus “...announced the addition of a novel MRD assay, xM MRD (formerly xM), to its comprehensive testing solutions. The tumor-naive plasma based test is available for research use only to detect circulating tumor DNA (ctDNA) in the blood of patients with early CRC after surgery.” _(Tempus, 2024)._
+In January 2024:<br /> 
+> “Tempus announced the addition of a novel MRD assay, xM MRD (formerly xM), to its comprehensive testing solutions. The tumor-naive plasma based test is available for research use only to detect circulating tumor DNA (ctDNA) in the blood of patients with early CRC after surgery.” _(Tempus, 2024)._
 
 These advancements in data and medical technology will be used at the forefront for patient diagnoses and treatment, and are only a few successful implementations that Tempus has offered since the beginning of 2024.
 
